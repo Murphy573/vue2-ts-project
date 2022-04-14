@@ -1,3 +1,4 @@
+import "typings/index.d.ts";
 import Vue, { VNode } from "vue";
 
 declare global {
